@@ -28,7 +28,7 @@ https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.co
 <a href="https://github.com/varraj">
 </a>
 </p>
-<!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varraj&show_icons=true&hide=contribs,issues)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -47,7 +47,7 @@ https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.co
 <a href="mailto:varunrajpal317@gmail.com"><img src="https://img.shields.io/badge/-varunrajpal317@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varraj&" alt="varraj" /></p> -->
-
+<!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varraj&show_icons=true&hide=contribs,issues)
 
 
 
