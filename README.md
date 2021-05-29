@@ -3,6 +3,8 @@
 <!--
 **varraj/varraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvarraj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
+
 
 <!-- - 🔭 I’m currently working on Periocular Recognition. -->
 - 🌱 I’m currently sharpening my Data Science skill set.
