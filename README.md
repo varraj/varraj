@@ -18,3 +18,17 @@ https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.co
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varraj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
+</p>
+<p align=center>
+<img height="25" src="https://badges.pufler.dev/visits/varraj/varraj?color=black&logo=github" />
+<img height="25" src="https://komarev.com/ghpvc/?username=varraj&color=brightgreen" />
+<a href="https://github.com/varraj">
+</a>
+</p>
+<!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varraj&show_icons=true&hide=contribs,issues)
+
+
+
