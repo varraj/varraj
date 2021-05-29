@@ -35,7 +35,6 @@ https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.co
 <p align="center">
 <a href="https://github.com/varraj">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=varraj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=varraj&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
